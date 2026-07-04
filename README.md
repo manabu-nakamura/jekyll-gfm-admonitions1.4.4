@@ -1,4 +1,4 @@
-https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.4.3/
+https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.4.4/
 ```markdown
     > [!NOTE]
     > Highlights information that users should take into account, even when skimming.
