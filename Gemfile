@@ -7,5 +7,3 @@ group :jekyll_plugins do
   gem 'github-pages'
 end
 gem 'jekyll-remote-theme'
-gem 'bigdecimal'
-gem 'base64'
