@@ -8,3 +8,4 @@ group :jekyll_plugins do
 end
 gem 'jekyll-remote-theme'
 gem 'bigdecimal'
+gem 'base64'
